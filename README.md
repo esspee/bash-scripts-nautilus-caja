@@ -4,7 +4,7 @@
 Any linux distribution with nautilus file manager or caja file manager. No specific requirements are needed.
 
 # Conventions 	
-requires to be executed with root privileges.
+Requires to be executed with root privilege.
 
 # Creating the scripts directory
 The first thing we want to do is to create the directory that will host our scripts. 
